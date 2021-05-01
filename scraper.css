@@ -1,0 +1,23 @@
+body {
+    background-image: url("./background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 15%;
+    text-align: center;
+}
+
+#city {
+    position: absolute;
+    left: 40vw;
+    width: 20vw;
+}
+
+#submit {
+    position: relative;
+    top: 70px;
+}
+
+#content {
+    position: relative;
+    top: 100px;
+}
